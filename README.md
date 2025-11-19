@@ -11,10 +11,11 @@ Mục tiêu là:
 - Dự báo thực nghiệm cho 1 store – 1 product cụ thể
 
 ## 2. Cấu trúc thư mục
-├── data_EDA.ipynb              # Notebook phân tích dữ liệu ban đầu (EDA)
-├── data_preprocessing_modelling.ipynb
-│                               # Notebook chính: tiền xử lý → train models → evaluation
-├── README.md                   
+```
+├── data_EDA.ipynb                     # Notebook phân tích dữ liệu ban đầu (EDA)
+├── data_preprocessing_modelling.ipynb # Notebook chính: tiền xử lý → train models → evaluation
+└── README.md
+```              
 ## 3. Kết quả so sánh 
 <img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/3a274cf7-e38f-4abe-aa28-563eb1a40d19" />
 **LightGBM là mô hình tốt nhất.**
